@@ -2,10 +2,10 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88626025/135750465-e90baab5-15dd-4f95-b886-3adf49a920ed.jpeg" align="center" href="https://iiekalyani.com" target="_blank">
-
+</p>
 
 ### GitHub stats
 
+
 ![iiekalyani GitHub stats](https://github-readme-stats.vercel.app/api?username=iiekalyani&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiekalyani&langs_count=8)](https://github.com/iiekalyani/github-readme-stats)
 
-</p>
